@@ -1,2 +1,2 @@
 # first-repo
-Hai, myself Naveen Kanaparthi.
+Myself Naveen Kanaparthi,Use Git to Lit your skills.
