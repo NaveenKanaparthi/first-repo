@@ -1,2 +1,2 @@
 # first-repo
-what is the purpose of the repo.
+Hai, myself Naveen Kanaparthi.
