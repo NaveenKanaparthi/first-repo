@@ -1,2 +1,2 @@
 # first-repo
-Naveen Kanaparthi, This is my first repository.
+This is my first repository.
